@@ -1,0 +1,50 @@
+.nav-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.link-el-dark {
+  text-decoration: none;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.link-el-light {
+  text-decoration: none;
+  font-weight: 500;
+  color: #1e293b;
+}
+
+.logo {
+  width: 50px;
+}
+
+.theme {
+  width: 30px;
+}
+
+.link-con {
+  width: 120px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+.theme-button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.light {
+  background-color: #ffffff;
+}
+
+.dark {
+  background-color: #333333;
+}

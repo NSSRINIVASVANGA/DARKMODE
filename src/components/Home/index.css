@@ -1,0 +1,23 @@
+.home-logo {
+  width: 100px;
+}
+
+.con {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.dark-con {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.light-con {
+  background-color: #ffffff;
+  color: #1e293b;
+}
